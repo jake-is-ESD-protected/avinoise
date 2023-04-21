@@ -1,0 +1,13 @@
+numba
+numpy
+librosa
+tensorflow==2.9.2
+sounddevice
+soundfile
+matplotlib
+pytest
+pydub
+augmolino
+resampy
+pandas
+jupyterlab
