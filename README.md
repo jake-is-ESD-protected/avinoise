@@ -77,9 +77,9 @@ The paper and project were created by Lukas Probst, Jakob Tschavoll and Yijun Zh
 
 Be sure that you have **python 3.9 or higher** and pip, otherwise the project won't run!
 
-Get your local instance by cloning from the [original repo](https://git.tu-berlin.de/dl4aed-ws2223/dl4aed-ws2223-projects/dl4aed-ws2223-p2)'s `main` branch via 
+Get your local instance by cloning from the [original repo](https://github.com/jake-is-ESD-protected/avinoise)'s `main` branch via 
 ```
-$ git clone https://git.tu-berlin.de/dl4aed-ws2223/dl4aed-ws2223-projects/dl4aed-ws2223-p2
+$ git clone https://github.com/jake-is-ESD-protected/avinoise
 ```
 
 Create a `venv` with any virtual environment tool you like. We recommend the native python venv. You can create it by navigating into the folder you just cloned and typing
@@ -117,9 +117,9 @@ prediction.plot(preds, mel_spectrogram) # see a plot
 ## Contribute
 
 ### Get the repo
-Get your local instance by cloning from the [original repo](https://git.tu-berlin.de/dl4aed-ws2223/dl4aed-ws2223-projects/dl4aed-ws2223-p2)'s `dev` branch via 
+Get your local instance by cloning from the [original repo](https://github.com/jake-is-ESD-protected/avinoise)'s `dev` branch via 
 ```
-$ git clone --branch dev https://git.tu-berlin.de/dl4aed-ws2223/dl4aed-ws2223-projects/dl4aed-ws2223-p2
+$ git clone --branch dev https://github.com/jake-is-ESD-protected/avinoise
 ```
 You should then create a new branch which roughly states what you want to add to the codebase. Let's say you want to implement a feature `avinoise.summary()` which prints a summary of all important current parameters for this project as an overview. You would then create a branch like
 ```
